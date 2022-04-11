@@ -1,2 +1,2 @@
-# dio-netflix-clone
- Recriação da interface da Netflix para o projeto da Digital Innovation One.
+# Página inicial da Netflix.
+Recriação da página inicial da Netflix feita para o projeto da Digital Innovation One.
