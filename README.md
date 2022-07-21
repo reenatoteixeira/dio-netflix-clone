@@ -1,2 +1,2 @@
-# Página inicial da Netflix.
-Recriando a página inicial da Netflix para o projeto da Digital Innovation One.
+# Netflix home page.
+Recreating the Netflix home page to the Digital Innovation One project.
